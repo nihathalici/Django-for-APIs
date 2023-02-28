@@ -14,3 +14,12 @@ GitHub
 ========================================================
 
 - Official Repo: https://github.com/wsvincent/restapiswithdjango
+
+Sample Output
+========================================================
+
+![Sample Output-1](https://github.com/nihathalici/Django-for-APIs/blob/main/Screenshots/blogapi_screenshot_1.png)
+![Sample Output-2](https://github.com/nihathalici/Django-for-APIs/blob/main/Screenshots/blogapi_screenshot_2.png)
+![Sample Output-1](https://github.com/nihathalici/Django-for-APIs/blob/main/Screenshots/blogapi_screenshot_3.png)
+
+
